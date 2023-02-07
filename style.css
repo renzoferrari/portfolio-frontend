@@ -7,20 +7,23 @@ body {
 }
 
 .btn.btn-primary {
+  font-family: 'Poppins', sans-serif;
     margin-right : 100px;
     background-color: rgb(88, 117, 248);
-    color: black;
+    color: white;
     border-color: black;
 }
 .nav-link.px-4.link-dark{
+  font-family: 'Poppins', sans-serif;
     background-color: rgb(0, 0, 0);
-    color: black;
+    color: white;
     border-color: black;
 
 }
 .btn.btn-outline-primary.me-2{
+  font-family: 'Poppins', sans-serif;
     background-color: rgb(88, 117, 248);
-    color: black;
+    color: white;
     border-color: black;
    
 }
@@ -35,22 +38,25 @@ body {
   img {
     position: absolute;
     width: 90%;
-    margin-top: 50%;
-    margin-left: 40px;
+    margin-top: 32%;
+    margin-left: 70%;
     padding: 0;
     border-radius: 50%;
   }
   .nombre {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
     font: weight 1px;;
     color: black;
     background-color: transparent;
-    margin-top: 8%;
-    margin-left: 4%;
+    margin-top: 4%;
+    margin-left: 1%;
   }
   .container {
     display:-webkit-box
 }
-.nombre.p1 {
+.nombre.p1 {font-family: 'Poppins', sans-serif;
+  text-align: center;
   color: black;
   margin-top: 1%;
     margin-left: 0%;
@@ -59,12 +65,39 @@ body {
 }
 img.argentina{  
   position: absolute;
+ 
   width: 2%;
  margin-top: -43px;
- margin-left: 470px;
- 
-  ;
+ margin-left: 600px;
+}
+.linea {
+  margin-top: 2%;
+  border-color:white;
+ background-color: white;
+ height: 1px;
+ opacity:100%;
   
+}
+.educacion{ 
+  font-size: 100%;
+  text-align: center;
+  font-size: xx-large;
+  margin-right:10px;
+  margin-left: 0%;
 
+  color: black;
+  font-size: xx-large;
+}
+.educacion1 { 
+  font-size: 100%;
+  
+  font-size: xx-large;
+  margin-right:10px;
+  margin-left: 3%;
 
+  color: black;
+  font-size: xx-large;
+}
+.container{
+  margin-right:10px
 }
