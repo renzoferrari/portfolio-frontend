@@ -47,7 +47,7 @@ body {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font: weight 1px;;
-    color: black;
+    color: white;
     background-color: transparent;
     margin-top: 4%;
     margin-left: 1%;
@@ -85,7 +85,7 @@ img.argentina{
   margin-right:10px;
   margin-left: 0%;
 
-  color: black;
+  color: white;
   font-size: xx-large;
 }
 .educacion1 { 
@@ -100,4 +100,25 @@ img.argentina{
 }
 .container{
   margin-right:10px
+}
+.colorlink{
+  color: white;
+}
+.logo1 {
+  position: absolute;
+  width: 10%;
+  margin-top: 00%;
+  margin-left: 5%;
+}
+.logo2 {
+  position: absolute;
+  width: 7%;
+  margin-top: -1%;
+  margin-left: 17%;
+}
+.logo3 {
+  position: absolute;
+  width: 7%;
+  margin-top: -2%;
+  margin-left: 17%;
 }
